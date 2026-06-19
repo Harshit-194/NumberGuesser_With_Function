@@ -1,4 +1,4 @@
-import random #importing thr random module to generate random numbers
+import random #importing the random module to generate random numbers
 print("Welcome to the Number Guesser")#welcome message for the users
 lose_point=5#defined the losing points
 def else_part_of_inner_loop(lower, upper):#created a function to use throughout the code for different levels
